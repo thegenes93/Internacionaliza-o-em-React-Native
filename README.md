@@ -7,8 +7,8 @@
 
 ## 🚀 Tecnologias
 
-- Expo — A web framework for Node.js
-- i18n-js — Premium Queue package for handling distributed jobs
+- Expo 
+- i18n-js
 
 ## ✋🏻 Necessario
 
@@ -18,5 +18,5 @@
 
 ## Instalação 
 
-- Faça um clone do repositorio
+- Faça um clone do repositório
 - Execute `yarn`
